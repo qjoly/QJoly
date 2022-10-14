@@ -15,7 +15,9 @@ jobs:
         node-version: '14.x'
 
     - name: Update README.md
-      run: node index.js >> README.md
+      run: |
+           npm install
+           node index.js >> README.md
 
     - name: Commit change & Push
       run: |
