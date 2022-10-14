@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working in [French government](https://www.gouvernement.fr/).
-- 🌱 I’m currently learning more on Kubernetes and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
+- 🌱 I’m currently learning more on Nix and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
 - 💬 Ask me about **Containers, Kubernetes and Python**
 - 📫 How to reach me: [@TheBidouilleur](https://twitter.com/TheBidouilleur) on Twitter
 
