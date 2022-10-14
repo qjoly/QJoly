@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
 - [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
 - [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
 - [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
 - [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
-- [Présentation rapide de Packer](https://thebidouilleur.xyz/blog/presentation-packer)
 <!-- BLOG-POST-LIST:END -->
 
 -------
