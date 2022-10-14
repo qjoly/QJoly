@@ -13,7 +13,10 @@ jobs:
       uses: actions/setup-node@v3.5.1
       with:
         node-version: '15.x'
-
+        
+    - name: Checkout
+      uses: actions/checkout@v2.5.0
+      
     - name: Update README.md
       run: |
            node progress.js >> README.md
