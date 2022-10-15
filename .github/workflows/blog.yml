@@ -3,7 +3,7 @@ name: Blog in Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 */2 * * *
+    - cron: 2 */2 * * *
 
 jobs:
   update:
