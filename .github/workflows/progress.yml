@@ -19,7 +19,7 @@ jobs:
       
     - name: Update README.md
       run: |
-           node progress.js >> README.md
+           node progress.js > README.md
 
     - name: Commit change & Push
       run: |
