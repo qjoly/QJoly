@@ -25,12 +25,15 @@
 <!-- BLOG-POST-LIST:END -->
 
 -------
+### Stats
+
+![QJoly's statistics](https://github-readme-stats.vercel.app/api?username=qjoly&count_private=true)
 
 ### Year progress
 
-⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.47 %
+⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.48 %
 
 ---
 
-⏰ Updated on Tue, 25 Oct 2022 08:26:41 GMT
+⏰ Updated on Tue, 25 Oct 2022 09:49:42 GMT
 
