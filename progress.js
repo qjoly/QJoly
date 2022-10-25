@@ -41,6 +41,9 @@ const readme = `\
 <!-- BLOG-POST-LIST:END -->
 
 -------
+### Stats
+
+![QJoly's statistics](https://github-readme-stats.vercel.app/api?username=qjoly&count_private=true)
 
 ### Year progress
 
