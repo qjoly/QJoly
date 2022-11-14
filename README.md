@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Gardez vos clusters à jour](https://thebidouilleur.xyz/blog/cluster-maj)
 - [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
-- [Programmer sous Devspace](https://thebidouilleur.xyz/blog/devspace)
 - [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
 - [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
+- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
+- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
 <!-- BLOG-POST-LIST:END -->
 
 -------
@@ -31,9 +31,9 @@
 
 ### Year progress
 
-⏳ Year progress { █████████████████████████▁▁▁▁▁ } 86.58 %
+⏳ Year progress { ██████████████████████████▁▁▁▁ } 86.85 %
 
 ---
 
-⏰ Updated on Sun, 13 Nov 2022 00:23:42 GMT
+⏰ Updated on Mon, 14 Nov 2022 00:23:32 GMT
 
