@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently working in [French government](https://www.gouvernement.fr/).
+- 🔭 I’m currently working at [French government](https://www.gouvernement.fr/).
 - 🌱 I’m currently learning more on Nix and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
 - 💬 Ask me about **Containers, Kubernetes and Python**
 - 📫 How to reach me: [@TheBidouilleur](https://twitter.com/TheBidouilleur) on Twitter
@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes en HCL](https://thebidouilleur.xyz/blog/kubernetes-hcl)
-- [Gardez vos clusters à jour](https://thebidouilleur.xyz/blog/cluster-maj)
 - [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
 - [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
 - [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
+- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
+- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
 <!-- BLOG-POST-LIST:END -->
 
 -------
@@ -31,9 +31,9 @@
 
 ### Year progress
 
-⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.02 %
+⏳ Year progress { ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 3.29 %
 
 ---
 
-⏰ Updated on Thu, 12 Jan 2023 00:22:32 GMT
+⏰ Updated on Fri, 13 Jan 2023 00:22:49 GMT
 
