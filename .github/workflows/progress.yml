@@ -27,3 +27,7 @@ jobs:
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git commit -am "bot: update README.md automatically"
           git push
+          
+    - uses: rickstaa/action-create-tag@v1
+      with:
+         tag: ${{github.run_number}}
