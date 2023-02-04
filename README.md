@@ -36,11 +36,14 @@
 </p>
 <br>
 
-### Year progress
+### Other
+
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly" alt="thebidouilleur" />
+
 
 ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.57 %
 
 ---
 
-⏰ Updated on Sat, 04 Feb 2023 22:35:14 GMT
+⏰ Updated on Sat, 04 Feb 2023 22:40:34 GMT
 
