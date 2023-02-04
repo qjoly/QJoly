@@ -27,7 +27,6 @@
 -------
 ### Stats
 
-
 <br/>
 <p align="left">
   <a href="https://thebidouilleur.xyz/">
@@ -37,12 +36,11 @@
 </p>
 <br>
 
-https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true
 ### Year progress
 
 ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.57 %
 
 ---
 
-⏰ Updated on Sat, 04 Feb 2023 22:32:04 GMT
+⏰ Updated on Sat, 04 Feb 2023 22:35:14 GMT
 
