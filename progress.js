@@ -52,7 +52,10 @@ const readme = `\
 </p>
 <br>
 
-### Year progress
+### Other
+
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly" alt="thebidouilleur" />
+
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
