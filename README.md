@@ -17,23 +17,32 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
-- [Kubernetes en HCL](https://thebidouilleur.xyz/blog/kubernetes-hcl)
-- [Gardez vos clusters à jour](https://thebidouilleur.xyz/blog/cluster-maj)
 - [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
 - [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
+- [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
+- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
+- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
 <!-- BLOG-POST-LIST:END -->
 
 -------
 ### Stats
 
-![QJoly's statistics](https://github-readme-stats.vercel.app/api?username=qjoly&count_private=true)
 
+<br/>
+<p align="left">
+  <a href="https://thebidouilleur.xyz/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
+  </a>
+</p>
+<br>
+
+https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true
 ### Year progress
 
-⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.32 %
+⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 9.57 %
 
 ---
 
-⏰ Updated on Sat, 04 Feb 2023 00:21:25 GMT
+⏰ Updated on Sat, 04 Feb 2023 22:32:04 GMT
 
