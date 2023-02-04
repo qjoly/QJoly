@@ -43,7 +43,6 @@ const readme = `\
 -------
 ### Stats
 
-
 <br/>
 <p align="left">
   <a href="https://thebidouilleur.xyz/">
@@ -53,7 +52,6 @@ const readme = `\
 </p>
 <br>
 
-https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true
 ### Year progress
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
