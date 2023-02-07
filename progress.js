@@ -53,9 +53,9 @@ const readme = `\
 <br>
 
 ### Other
-<script defer data-domain="github.com" src="https://stats.192168128.xyz/js/plausible.js"></script>
-<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly" alt="thebidouilleur" />
+<img align="center" src="" alt="thebidouilleur" />
 
+![View Counter](https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly)
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
