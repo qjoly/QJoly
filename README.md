@@ -30,8 +30,8 @@
 <br/>
 <p align="left">
   <a href="https://thebidouilleur.xyz/">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
   </a>
 </p>
 <br>
@@ -40,9 +40,9 @@
 
 ![View Counter](https://visitor-badge.deta.dev/badge?page_id=qjoly.qjoly)
 
-⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.24 %
+⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.31 %
 
 ---
 
-⏰ Updated on Tue, 07 Feb 2023 09:19:12 GMT
+⏰ Updated on Tue, 07 Feb 2023 15:09:20 GMT
 
