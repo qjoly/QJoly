@@ -46,15 +46,15 @@ const readme = `\
 <br/>
 <p align="left">
   <a href="https://thebidouilleur.xyz/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
   </a>
 </p>
 <br>
 
 ### Other
 
-![View Counter](https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly)
+![View Counter](https://visitor-badge.deta.dev/badge?page_id=qjoly.qjoly)
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
