@@ -30,20 +30,19 @@
 <br/>
 <p align="left">
   <a href="https://thebidouilleur.xyz/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
   </a>
 </p>
 <br>
 
 ### Other
-<img align="center" src="" alt="thebidouilleur" />
 
-![View Counter](https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly)
+![View Counter](https://visitor-badge.deta.dev/badge?page_id=qjoly.qjoly)
 
-⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.23 %
+⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 10.24 %
 
 ---
 
-⏰ Updated on Tue, 07 Feb 2023 08:08:25 GMT
+⏰ Updated on Tue, 07 Feb 2023 09:19:12 GMT
 
