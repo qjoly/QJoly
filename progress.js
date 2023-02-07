@@ -53,7 +53,6 @@ const readme = `\
 <br>
 
 ### Other
-<img align="center" src="" alt="thebidouilleur" />
 
 ![View Counter](https://visitor-badge.glitch.me/badge?page_id=qjoly.qjoly)
 
