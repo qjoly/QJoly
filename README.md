@@ -17,7 +17,7 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Mon matériel](https://thebidouilleur.xyz/blog/Mon Setup)
+- [Mon matériel](https://thebidouilleur.xyz/blog/Mon-Setup)
 - [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
 - [Kubernetes en HCL](https://thebidouilleur.xyz/blog/kubernetes-hcl)
 - [Gardez vos clusters à jour](https://thebidouilleur.xyz/blog/cluster-maj)
