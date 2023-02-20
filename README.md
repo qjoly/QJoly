@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Mon matériel](https://thebidouilleur.xyz/blog/Mon-Setup)
-- [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
-- [Kubernetes en HCL](https://thebidouilleur.xyz/blog/kubernetes-hcl)
-- [Gardez vos clusters à jour](https://thebidouilleur.xyz/blog/cluster-maj)
 - [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
+- [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
+- [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
+- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
+- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
 <!-- BLOG-POST-LIST:END -->
 
 -------
@@ -40,9 +40,9 @@
 
 ![View Counter](https://visitor-badge.deta.dev/badge?page_id=qjoly.qjoly)
 
-⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.43 %
+⏳ Year progress { ████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 13.70 %
 
 ---
 
-⏰ Updated on Sun, 19 Feb 2023 00:23:29 GMT
+⏰ Updated on Mon, 20 Feb 2023 00:25:19 GMT
 
