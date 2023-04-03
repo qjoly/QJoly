@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
-- [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
-- [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
-- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
-- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
+- [Dagger.io, un CI Universel](https://thebidouilleur.xyz/blog/dagger)
+- [Signalez vos attaquants avec Fail2Ban](https://thebidouilleur.xyz/blog/abuseipdb-fail2ban)
+- [Mon matériel](https://thebidouilleur.xyz/blog/Mon-Setup)
+- [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
+- [Kubernetes en HCL](https://thebidouilleur.xyz/blog/kubernetes-hcl)
 <!-- BLOG-POST-LIST:END -->
 
 -------
