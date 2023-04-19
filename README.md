@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple DebianRepository - Déployer un dépôt Debian en 2min](https://thebidouilleur.xyz/blog/DebianRepository)
-- [Dagger.io, un CI Universel](https://thebidouilleur.xyz/blog/dagger)
-- [Signalez vos attaquants avec Fail2Ban](https://thebidouilleur.xyz/blog/abuseipdb-fail2ban)
-- [Mon matériel](https://thebidouilleur.xyz/blog/Mon-Setup)
-- [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
+- [Remarkable, une avancée dans les prises de notes](https://thebidouilleur.xyz/blog/remarkable)
+- [NixOS, Ma nouvelle distribution](https://thebidouilleur.xyz/blog/nixos)
+- [Mes débuts à la gyroroue](https://thebidouilleur.xyz/blog/gyroroue)
+- [Longhorn, stockage distribué](https://thebidouilleur.xyz/blog/longhorn)
+- [Mes débuts avec s3](https://thebidouilleur.xyz/blog/s3contabo)
 <!-- BLOG-POST-LIST:END -->
 
 -------
@@ -40,9 +40,9 @@
 
 ![View Counter](https://visitor-badge.deta.dev/badge?page_id=qjoly.qjoly)
 
-⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.32 %
+⏳ Year progress { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.59 %
 
 ---
 
-⏰ Updated on Tue, 18 Apr 2023 00:20:15 GMT
+⏰ Updated on Wed, 19 Apr 2023 00:22:01 GMT
 
