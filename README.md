@@ -36,6 +36,8 @@
 - [ktop](https://github.com/vladimirvivien/ktop/)
 <!-- NIX-PACKAGES:END -->
 
+-------
+
 ### Stats
 
 <br/>
