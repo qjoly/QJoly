@@ -25,6 +25,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 -------
+
+**❄️ Nix packages I maintain**
+<!-- NIX-PACKAGES:START -->
+Anything here will be deleted
+<!-- NIX-PACKAGES:END -->
+
 ### Stats
 
 <br/>
