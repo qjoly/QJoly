@@ -1,0 +1,24 @@
+name: Run action on test.md
+
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: 5 0 * * *
+jobs:
+  run_action:
+    runs-on: ubuntu-latest
+    name: Run 'Nix-Maintened_by'
+    steps:
+      - uses: actions/checkout@v3 # Clone your code
+      - uses: actions/checkout@v3 # Clone NixPkgs
+        with:
+          path: './nixpkgs'
+          repository: 'NixOS/nixpkgs'
+      
+      - name: Run nix-maintainers-get-packages # Run action 
+        uses: qjoly/Nix-Maintained_by@v0.1.3
+        with:
+          file: './README.md'
+          path_nixpkgs: './nixpkgs/pkgs'
+          maintainer: 'qjoly'
