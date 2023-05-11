@@ -1,4 +1,4 @@
-name: Run action on test.md
+name: Run nix_mainted-by
 
 on:
   workflow_dispatch:
