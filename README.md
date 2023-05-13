@@ -28,6 +28,7 @@
 
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
+- [kubeshark](https://kubeshark.co/)
 - [nova](https://nova.docs.fairwinds.com/)
 - [kubefirst](https://github.com/kubefirst/kubefirst/)
 - [kubexit](https://github.com/karlkfi/kubexit/)
