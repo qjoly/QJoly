@@ -32,6 +32,7 @@
 - [nova](https://nova.docs.fairwinds.com/)
 - [kubefirst](https://github.com/kubefirst/kubefirst/)
 - [kubexit](https://github.com/karlkfi/kubexit/)
+- [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [aiac](https://github.com/gofireflyio/aiac/)
 - [tfautomv](https://github.com/padok-team/tfautomv)
 - [kubecm](https://github.com/sunny0826/kubecm/)
