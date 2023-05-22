@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [IPFS - un protocole pour archiver et partager des fichiers](https://thebidouilleur.xyz/blog/ipfs)
 - [Simple DebianRepository - Déployer un dépôt Debian en 2min](https://thebidouilleur.xyz/blog/DebianRepository)
 - [Dagger.io, un CI Universel](https://thebidouilleur.xyz/blog/dagger)
 - [Signalez vos attaquants avec Fail2Ban](https://thebidouilleur.xyz/blog/abuseipdb-fail2ban)
 - [Mon matériel](https://thebidouilleur.xyz/blog/Mon-Setup)
-- [Créer son propre registre helm](https://thebidouilleur.xyz/blog/Creer-son-registre-helm)
 <!-- BLOG-POST-LIST:END -->
 
 -------
