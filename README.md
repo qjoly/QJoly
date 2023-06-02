@@ -39,6 +39,7 @@
 - [k9s](https://github.com/derailed/k9s)
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [ktop](https://github.com/vladimirvivien/ktop/)
+- [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 <!-- NIX-PACKAGES:END -->
 
 -------
