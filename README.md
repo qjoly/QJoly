@@ -28,18 +28,18 @@
 
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
-- [kubeshark](https://kubeshark.co/)
-- [nova](https://nova.docs.fairwinds.com/)
-- [kubefirst](https://github.com/kubefirst/kubefirst/)
-- [kubexit](https://github.com/karlkfi/kubexit/)
-- [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
-- [aiac](https://github.com/gofireflyio/aiac/)
-- [tfautomv](https://github.com/padok-team/tfautomv)
-- [kubecm](https://github.com/sunny0826/kubecm/)
-- [k9s](https://github.com/derailed/k9s)
-- [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
-- [ktop](https://github.com/vladimirvivien/ktop/)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
+- [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
+- [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
+- [kubefirst](https://github.com/kubefirst/kubefirst/)
+- [aiac](https://github.com/gofireflyio/aiac/)
+- [kubeshark](https://kubeshark.co/)
+- [kubecm](https://github.com/sunny0826/kubecm/)
+- [kubexit](https://github.com/karlkfi/kubexit/)
+- [nova](https://nova.docs.fairwinds.com/)
+- [ktop](https://github.com/vladimirvivien/ktop/)
+- [tfautomv](https://github.com/padok-team/tfautomv)
+- [k9s](https://github.com/derailed/k9s)
 <!-- NIX-PACKAGES:END -->
 
 -------
