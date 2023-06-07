@@ -1,4 +1,4 @@
-name: Run nix_mainted-by
+name: Run nix_maintained-by
 
 on:
   workflow_dispatch:
