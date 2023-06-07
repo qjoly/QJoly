@@ -28,6 +28,8 @@
 
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
+- [mdslides](https://github.com/dadoomer/markdown-slides)
+- [joplin-desktop](https://joplinapp.org)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
@@ -38,7 +40,7 @@
 - [kubexit](https://github.com/karlkfi/kubexit/)
 - [nova](https://nova.docs.fairwinds.com/)
 - [ktop](https://github.com/vladimirvivien/ktop/)
-- [tfautomv](https://github.com/padok-team/tfautomv)
+- [tfautomv](https://github.com/busser/tfautomv)
 - [k9s](https://github.com/derailed/k9s)
 <!-- NIX-PACKAGES:END -->
 
