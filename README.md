@@ -29,6 +29,8 @@
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
 - [aiac](https://github.com/gofireflyio/aiac/)
+- [clusterctl](https://cluster-api.sigs.k8s.io/)
+- [driftctl](https://driftctl.com/)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [joplin-desktop](https://joplinapp.org)
 - [k9s](https://github.com/derailed/k9s)
@@ -36,6 +38,7 @@
 - [kubecm](https://github.com/sunny0826/kubecm/)
 - [kubefirst](https://github.com/kubefirst/kubefirst/)
 - [kubeshark](https://kubeshark.co/)
+- [kubetail](https://github.com/johanhaleby/kubetail)
 - [kubexit](https://github.com/karlkfi/kubexit/)
 - [mdslides](https://github.com/dadoomer/markdown-slides)
 - [nova](https://nova.docs.fairwinds.com/)
