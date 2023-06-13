@@ -29,6 +29,7 @@
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
 - [aiac](https://github.com/gofireflyio/aiac/)
+- [argocd](https://argo-cd.readthedocs.io/en/stable/)
 - [clusterctl](https://cluster-api.sigs.k8s.io/)
 - [driftctl](https://driftctl.com/)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
@@ -44,7 +45,10 @@
 - [nova](https://nova.docs.fairwinds.com/)
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
+- [terragrunt](https://terragrunt.gruntwork.io)
 - [tfautomv](https://github.com/busser/tfautomv)
+- [tfupdate](https://github.com/minamijoyo/tfupdate)
+- [vcluster](https://www.vcluster.com/)
 <!-- NIX-PACKAGES:END -->
 
 -------
