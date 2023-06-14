@@ -35,6 +35,7 @@
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [joplin-desktop](https://joplinapp.org)
 - [k9s](https://github.com/derailed/k9s)
+- [kaniko](https://github.com/GoogleContainerTools/kaniko)
 - [ktop](https://github.com/vladimirvivien/ktop/)
 - [kubecm](https://github.com/sunny0826/kubecm/)
 - [kubefirst](https://github.com/kubefirst/kubefirst/)
