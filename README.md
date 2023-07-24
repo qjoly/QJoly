@@ -44,6 +44,7 @@
 - [kubexit](https://github.com/karlkfi/kubexit/)
 - [mdslides](https://github.com/dadoomer/markdown-slides)
 - [nova](https://nova.docs.fairwinds.com/)
+- [packer](https://www.packer.io)
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [terragrunt](https://terragrunt.gruntwork.io)
