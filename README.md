@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Blinky - Un petit gyrophare connecté](https://thebidouilleur.xyz/blog/blinky)
-- [QuteBrowser - Un navigateur basé sur Vim](https://thebidouilleur.xyz/blog/QuteBrowser)
-- [IPFS - un protocole pour archiver et partager des fichiers](https://thebidouilleur.xyz/blog/ipfs)
-- [Simple DebianRepository - Déployer un dépôt Debian en 2min](https://thebidouilleur.xyz/blog/DebianRepository)
-- [Dagger.io, un CI Universel](https://thebidouilleur.xyz/blog/dagger)
+- [Débuter avec Tmux](https://une-tasse-de.cafe/blog/tmux/)
+- [Blinky - Un petit gyrophare connecté](https://une-tasse-de.cafe/blog/blinky/)
+- [PrezVim - Apprendre Vim en 30 minutes](https://une-tasse-de.cafe/blog/prezvim/)
+- [QuteBrowser - Un navigateur basé sur Vim](https://une-tasse-de.cafe/blog/qutebrowser/)
+- [Traefik Certs Dumper](https://une-tasse-de.cafe/blog/traefik-cert-dumper/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
