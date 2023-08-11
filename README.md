@@ -34,6 +34,7 @@
 - [driftctl](https://driftctl.com/)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [joplin-desktop](https://joplinapp.org)
+- [k3sup](https://github.com/alexellis/k3sup)
 - [k9s](https://github.com/derailed/k9s)
 - [kaniko](https://github.com/GoogleContainerTools/kaniko)
 - [ktop](https://github.com/vladimirvivien/ktop/)
