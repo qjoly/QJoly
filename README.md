@@ -30,6 +30,7 @@
 <!-- NIX-PACKAGES:START -->
 - [aiac](https://github.com/gofireflyio/aiac/)
 - [argocd](https://argo-cd.readthedocs.io/en/stable/)
+- [arkade](https://github.com/alexellis/arkade)
 - [clusterctl](https://cluster-api.sigs.k8s.io/)
 - [driftctl](https://driftctl.com/)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
