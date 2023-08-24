@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Passage de la certification Consul Associate](https://une-tasse-de.cafe/blog/consul-certification/)
 - [Consul : de A à Y](https://une-tasse-de.cafe/blog/consul/)
 - [Débuter avec Tmux](https://une-tasse-de.cafe/blog/tmux/)
 - [Blinky - Un petit gyrophare connecté](https://une-tasse-de.cafe/blog/blinky/)
 - [PrezVim - Apprendre Vim en 30 minutes](https://une-tasse-de.cafe/blog/prezvim/)
-- [QuteBrowser - Un navigateur basé sur Vim](https://une-tasse-de.cafe/blog/qutebrowser/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
