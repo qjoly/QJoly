@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Découverte de Guix](https://une-tasse-de.cafe/blog/guix/)
 - [Passage de la certification Terraform Associate](https://une-tasse-de.cafe/blog/terraform-certification/)
 - [Passage de la certification Consul Associate](https://une-tasse-de.cafe/blog/consul-certification/)
 - [Consul : de A à Y](https://une-tasse-de.cafe/blog/consul/)
 - [Débuter avec Tmux](https://une-tasse-de.cafe/blog/tmux/)
-- [Blinky - Un petit gyrophare connecté](https://une-tasse-de.cafe/blog/blinky/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
