@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello!</h2>
 <p align="center">
-  <a href="https://thebidouilleur.xyz">Blog</a> •
+  <a href="https://une-tasse-de.cafe">Blog</a> •
   <a href="https://twitter.com/thebidouilleur">Twitter</a>
 </p>
 
@@ -70,7 +70,7 @@
 
 <br/>
 <p align="left">
-  <a href="https://thebidouilleur.xyz/">
+  <a href="https://une-tasse-de.cafe/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
   </a>
