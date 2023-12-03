@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Sealed Secrets](https://une-tasse-de.cafe/blog/sealed-secrets/)
 - [Prometheus de A à Y](https://une-tasse-de.cafe/blog/prometheus/)
 - [Découverte de Guix](https://une-tasse-de.cafe/blog/guix/)
 - [Passage de la certification Terraform Associate](https://une-tasse-de.cafe/blog/terraform-certification/)
 - [Passage de la certification Consul Associate](https://une-tasse-de.cafe/blog/consul-certification/)
-- [Consul : de A à Y](https://une-tasse-de.cafe/blog/consul/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
