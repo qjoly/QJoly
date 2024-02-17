@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Loki : de A à Y](https://une-tasse-de.cafe/blog/loki/)
 - [Ma VAE - Administrateur d&#39;Infrastructures Sécurisées](https://une-tasse-de.cafe/blog/vae/)
 - [Vault de A à Y](https://une-tasse-de.cafe/blog/vault/)
 - [Créer son cloud de MicroVM à la maison ?](https://une-tasse-de.cafe/blog/firecracker/)
 - [Je voulais juste ouvrir un port sur ma Livebox...](https://une-tasse-de.cafe/blog/livebox-nat/)
-- [Au final... qu&#39;est-ce qu&#39;un conteneur ?](https://une-tasse-de.cafe/blog/conteneur/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
