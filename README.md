@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [ArgoCD de A à Y](https://une-tasse-de.cafe/blog/argocd/)
 - [Talos - Un OS immuable pour Kubernetes](https://une-tasse-de.cafe/blog/talos/)
 - [Loki de A à Y](https://une-tasse-de.cafe/blog/loki/)
 - [Ma VAE - Administrateur d&#39;Infrastructures Sécurisées](https://une-tasse-de.cafe/blog/vae/)
 - [Vault de A à Y](https://une-tasse-de.cafe/blog/vault/)
-- [Créer son cloud de MicroVM à la maison ?](https://une-tasse-de.cafe/blog/firecracker/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
