@@ -1,0 +1,48 @@
+---
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full
+# reference
+name: Metrics
+on:
+  schedule: [{cron: "30 0,12 * * *"}]
+  workflow_dispatch:
+  push: 
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Config
+          user: qjoly
+          template: classic
+          config_gemoji: yes
+          config_timezone: Europe/Paris
+          retries: 3
+          retries_delay: 300
+          use_prebuilt_image: yes
+
+          # base
+          base: header, activity, community, repositories, metadata
+          repositories_forks: no
+          repositories_affiliations: owner, collaborator
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_languages: yes
+          plugin_languages_ignored: qml
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 90
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_lines: yes
+
+          plugin_traffic: yes
