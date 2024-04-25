@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Falco de A à Y](https://une-tasse-de.cafe/blog/falco/)
 - [Yubikey et GPG : sécuriser ses communications](https://une-tasse-de.cafe/blog/yubikey/)
 - [ArgoCD de A à Y](https://une-tasse-de.cafe/blog/argocd/)
 - [Talos - Un OS immuable pour Kubernetes](https://une-tasse-de.cafe/blog/talos/)
 - [Loki de A à Y](https://une-tasse-de.cafe/blog/loki/)
-- [Ma VAE - Administrateur d&#39;Infrastructures Sécurisées](https://une-tasse-de.cafe/blog/vae/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
