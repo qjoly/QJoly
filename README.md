@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Awtrix Ulanzi + Domotique = ❤️](https://une-tasse-de.cafe/blog/awtrix3-ulanzi-home-assistant/)
 - [Falco de A à Y](https://une-tasse-de.cafe/blog/falco/)
 - [Yubikey et GPG : sécuriser ses communications](https://une-tasse-de.cafe/blog/yubikey/)
 - [ArgoCD de A à Y](https://une-tasse-de.cafe/blog/argocd/)
 - [Talos - Un OS immuable pour Kubernetes](https://une-tasse-de.cafe/blog/talos/)
-- [Loki de A à Y](https://une-tasse-de.cafe/blog/loki/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
