@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Istio de A à Y](https://une-tasse-de.cafe/blog/istio/)
 - [Une infrastructure VPN hybride avec Headscale](https://une-tasse-de.cafe/blog/headscale-hybrid/)
 - [Awtrix Ulanzi + Domotique = ❤️](https://une-tasse-de.cafe/blog/awtrix3-ulanzi-home-assistant/)
 - [Falco de A à Y](https://une-tasse-de.cafe/blog/falco/)
 - [Yubikey et GPG : sécuriser ses communications](https://une-tasse-de.cafe/blog/yubikey/)
-- [ArgoCD de A à Y](https://une-tasse-de.cafe/blog/argocd/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
