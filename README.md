@@ -61,7 +61,6 @@
 - [terraform](https://www.terraform.io/)
 - [tfautomv](https://github.com/busser/tfautomv)
 - [tfupdate](https://github.com/minamijoyo/tfupdate)
-- [vcluster](https://www.vcluster.com/)
 <!-- NIX-PACKAGES:END -->
 
 -------
