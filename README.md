@@ -54,7 +54,6 @@
 - [mdslides](https://github.com/dadoomer/markdown-slides)
 - [netmaker](https://netmaker.io)
 - [nova](https://nova.docs.fairwinds.com/)
-- [packer](https://www.packer.io)
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
