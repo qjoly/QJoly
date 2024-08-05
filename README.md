@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [GoAuthentik de A à Y](https://une-tasse-de.cafe/blog/goauthentik/)
 - [Le Dygma Defy, mon premier clavier split](https://une-tasse-de.cafe/blog/dygma-defy/)
 - [Istio de A à Y](https://une-tasse-de.cafe/blog/istio/)
 - [Une infrastructure VPN hybride avec Headscale](https://une-tasse-de.cafe/blog/headscale-hybrid/)
 - [Awtrix Ulanzi + Domotique = ❤️](https://une-tasse-de.cafe/blog/awtrix3-ulanzi-home-assistant/)
-- [Falco de A à Y](https://une-tasse-de.cafe/blog/falco/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
