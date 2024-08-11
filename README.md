@@ -36,7 +36,6 @@
 - [cloudflared](https://www.cloudflare.com/products/tunnel)
 - [clusterctl](https://cluster-api.sigs.k8s.io/)
 - [driftctl](https://driftctl.com/)
-- [firecracker](http://firecracker-microvm.io)
 - [habitat](https://www.habitat.sh)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
 - [joplin-desktop](https://joplinapp.org)
