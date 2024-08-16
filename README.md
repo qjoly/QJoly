@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello!</h2>
 <p align="center">
-  <a href="https://une-tasse-de.cafe">Blog</a> •
+  <a href="https://a-cup-of.coffee">Blog</a> •
   <a href="https://twitter.com/thebidouilleur">Twitter</a>
 </p>
 
