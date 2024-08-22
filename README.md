@@ -5,8 +5,8 @@
 </p>
 
 
-- 🔭 I’m currently working at [French government](https://www.gouvernement.fr/).
-- 🌱 I’m currently learning more on Nix and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
+- 🔭 I’m currently working at [Lucca](https://www.lucca.fr/).
+- 🌱 I’m currently learning more on [HCI](https://www.hpe.com/emea_europe/en/what-is/hyperconverged-infrastructure.html), Golang, and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
 - 💬 Ask me about **Containers, Kubernetes and Python**
 - 📫 How to reach me: [@TheBidouilleur](https://twitter.com/TheBidouilleur) on Twitter
 
