@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Istio from A to Y](https://a-cup-of.coffee/blog/istio/)
-- [Awtrix Ulanzi + Domotic = ❤️](https://a-cup-of.coffee/blog/awtrix3-ulanzi-home-assistant/)
-- [Falco from A to Y](https://a-cup-of.coffee/blog/falco/)
-- [Yubikey and GPG: Securing Your Communications](https://a-cup-of.coffee/blog/yubikey/)
-- [ArgoCD from A to Y](https://a-cup-of.coffee/blog/argocd/)
+- [GoAuthentik from A to Y](/blog/goauthentik/)
+- [Istio from A to Y](/blog/istio/)
+- [Awtrix Ulanzi + Domotic = ❤️](/blog/awtrix3-ulanzi-home-assistant/)
+- [Falco from A to Y](/blog/falco/)
+- [Yubikey and GPG: Securing Your Communications](/blog/yubikey/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
