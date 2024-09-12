@@ -46,7 +46,7 @@
 - [ktop](https://github.com/vladimirvivien/ktop/)
 - [kubecfg](https://github.com/kubecfg/kubecfg)
 - [kubecm](https://github.com/sunny0826/kubecm/)
-- [kubefirst](https://github.com/kubefirst/kubefirst/)
+- [kubefirst](https://github.com/konstructio/kubefirst/)
 - [kubeshark](https://kubeshark.co/)
 - [kubetail](https://github.com/johanhaleby/kubetail)
 - [kubexit](https://github.com/karlkfi/kubexit/)
