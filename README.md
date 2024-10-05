@@ -53,7 +53,6 @@
 - [mdslides](https://github.com/dadoomer/markdown-slides)
 - [netmaker](https://netmaker.io)
 - [nova](https://nova.docs.fairwinds.com/)
-- [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [terraform](https://www.terraform.io/)
 - [tfautomv](https://github.com/busser/tfautomv)
