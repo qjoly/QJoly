@@ -31,7 +31,6 @@
 - [aiac](https://github.com/gofireflyio/aiac/)
 - [argocd](https://argo-cd.readthedocs.io/en/stable/)
 - [arkade](https://github.com/alexellis/arkade)
-- [avalanchego](https://github.com/ava-labs/avalanchego)
 - [cilium](https://www.cilium.io/)
 - [cloudflared](https://www.cloudflare.com/products/tunnel)
 - [clusterctl](https://cluster-api.sigs.k8s.io/)
