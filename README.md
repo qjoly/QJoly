@@ -28,34 +28,9 @@
 
 **❄️ Nix packages I maintain**
 <!-- NIX-PACKAGES:START -->
-- [aiac](https://github.com/gofireflyio/aiac/)
-- [argocd](https://argo-cd.readthedocs.io/en/stable/)
-- [arkade](https://github.com/alexellis/arkade)
-- [cilium](https://www.cilium.io/)
 - [cloudflared](https://www.cloudflare.com/products/tunnel)
-- [clusterctl](https://cluster-api.sigs.k8s.io/)
-- [driftctl](https://driftctl.com/)
-- [habitat](https://www.habitat.sh)
-- [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
-- [joplin-desktop](https://joplinapp.org)
-- [k0sctl](https://k0sproject.io/)
-- [k3sup](https://github.com/alexellis/k3sup)
-- [k9s](https://github.com/derailed/k9s)
-- [kaniko](https://github.com/GoogleContainerTools/kaniko)
-- [ktop](https://github.com/vladimirvivien/ktop/)
-- [kubecfg](https://github.com/kubecfg/kubecfg)
-- [kubecm](https://github.com/sunny0826/kubecm/)
-- [kubefirst](https://github.com/konstructio/kubefirst/)
-- [kubeshark](https://kubeshark.co/)
-- [kubetail](https://github.com/johanhaleby/kubetail)
-- [kubexit](https://github.com/karlkfi/kubexit/)
-- [mdslides](https://github.com/dadoomer/markdown-slides)
 - [netmaker](https://netmaker.io)
-- [nova](https://nova.docs.fairwinds.com/)
-- [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [terraform](https://www.terraform.io/)
-- [tfautomv](https://github.com/busser/tfautomv)
-- [tfupdate](https://github.com/minamijoyo/tfupdate)
 <!-- NIX-PACKAGES:END -->
 
 -------
