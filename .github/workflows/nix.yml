@@ -17,7 +17,7 @@ jobs:
           repository: 'NixOS/nixpkgs'
       
       - name: Run nix-maintainers-get-packages # Run action 
-        uses: qjoly/Nix-Maintained_by@v0.2.0
+        uses: qjoly/Nix-Maintained_by@main
         with:
           file: './README.md'
           path_nixpkgs: './nixpkgs/pkgs'
