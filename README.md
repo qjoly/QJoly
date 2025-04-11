@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Omni and Kubevirt](https://a-cup-of.coffee/blog/omni/)
 - [Cluster API + Talos + Proxmox = ❤️](https://a-cup-of.coffee/blog/talos-capi-proxmox/)
 - [GoAuthentik from A to Y](https://a-cup-of.coffee/blog/goauthentik/)
 - [Istio from A to Y](https://a-cup-of.coffee/blog/istio/)
 - [Awtrix Ulanzi + Domotic = ❤️](https://a-cup-of.coffee/blog/awtrix3-ulanzi-home-assistant/)
-- [Falco from A to Y](https://a-cup-of.coffee/blog/falco/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
