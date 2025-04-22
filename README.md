@@ -33,6 +33,7 @@
 - [arkade](https://github.com/alexellis/arkade)
 - [avalanchego](https://github.com/ava-labs/avalanchego)
 - [cilium-cli](https://www.cilium.io/)
+- [cloudflared](https://www.cloudflare.com/products/tunnel)
 - [clusterctl](https://cluster-api.sigs.k8s.io/)
 - [driftctl](https://driftctl.com/)
 - [firecracker](http://firecracker-microvm.io)
