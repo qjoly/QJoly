@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     name: Run 'Nix-Maintained_by'
     steps:
-      - uses: actions/checkout@v4 # Clone your code
-      - uses: actions/checkout@v4 # Clone NixPkgs
+      - uses: actions/checkout@v5 # Clone your code
+      - uses: actions/checkout@v5 # Clone NixPkgs
         with:
           path: './nixpkgs'
           repository: 'NixOS/nixpkgs'
