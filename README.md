@@ -39,7 +39,6 @@
 - [firecracker](http://firecracker-microvm.io)
 - [habitat](https://www.habitat.sh)
 - [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
-- [joplin-desktop](https://joplinapp.org)
 - [k0sctl](https://k0sproject.io/)
 - [k3sup](https://github.com/alexellis/k3sup)
 - [k9s](https://github.com/derailed/k9s)
