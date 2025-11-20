@@ -10,10 +10,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Install missing deps
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
+    
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
