@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/)
 - [Kubernetes API-Server with Multiple IdPs &lpar;and Github Actions&rpar;](https://a-cup-of.coffee/blog/apiserver-multi-idp/)
 - [SPIFFE and mTLS with cert-manager](https://a-cup-of.coffee/blog/spiffe/)
 - [Customizing Talos with Extensions](https://a-cup-of.coffee/blog/talos-ext/)
 - [Omni and Kubevirt](https://a-cup-of.coffee/blog/omni/)
-- [Cluster API + Talos + Proxmox = ❤️](https://a-cup-of.coffee/blog/talos-capi-proxmox/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
