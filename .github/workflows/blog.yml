@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://a-cup-of.coffee/index.xml
