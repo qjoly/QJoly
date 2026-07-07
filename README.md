@@ -42,7 +42,7 @@
 - [k0sctl](https://k0sproject.io/)
 - [k3sup](https://github.com/alexellis/k3sup)
 - [k9s](https://github.com/derailed/k9s)
-- [kaniko](https://github.com/chainguard-dev/kaniko)
+- [kaniko](https://github.com/chainguard-forks/kaniko)
 - [ktop](https://github.com/vladimirvivien/ktop/)
 - [kubecfg](https://github.com/kubecfg/kubecfg)
 - [kubecm](https://github.com/sunny0826/kubecm/)
