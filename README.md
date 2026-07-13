@@ -17,11 +17,11 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Karpenter + Cluster API](https://a-cup-of.coffee/blog/karpenter-capi-ovh/)
 - [Kloak: kernel-space secret injection via eBPF on Kubernetes](https://a-cup-of.coffee/blog/kloak/)
 - [talosctl-oidc: adding SSO to Talos Linux](https://a-cup-of.coffee/blog/talosctl-oidc/)
 - [Kairos, the immutable OS for deploying Kubernetes](https://a-cup-of.coffee/blog/kairos/)
 - [Bootc and OSTree: Modernizing Linux System Deployment](https://a-cup-of.coffee/blog/ostree-bootc/)
-- [Kubernetes API-Server with Multiple IdPs &lpar;and Github Actions&rpar;](https://a-cup-of.coffee/blog/apiserver-multi-idp/)
 <!-- BLOG-POST-LIST:END -->
 
 -------
