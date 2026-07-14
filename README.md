@@ -47,7 +47,7 @@
 - [kubecfg](https://github.com/kubecfg/kubecfg)
 - [kubecm](https://github.com/sunny0826/kubecm/)
 - [kubefirst](https://github.com/konstructio/kubefirst/)
-- [kubeshark](https://kubeshark.co/)
+- [kubeshark](https://kubeshark.com/)
 - [kubetail](https://github.com/johanhaleby/kubetail)
 - [kubexit](https://github.com/karlkfi/kubexit/)
 - [mdslides](https://github.com/dadoomer/markdown-slides)
