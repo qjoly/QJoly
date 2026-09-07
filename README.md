@@ -56,6 +56,7 @@
 - [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
 - [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
 - [teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
+- [terraform](https://www.terraform.io/)
 - [terragrunt](https://terragrunt.gruntwork.io)
 - [tfautomv](https://github.com/busser/tfautomv)
 - [tfupdate](https://github.com/minamijoyo/tfupdate)
