@@ -1,32 +1,24 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <img alt="" src="assets/hello-light.svg" width="480">
-</picture>
+  <img src="assets/header.svg" alt="Quentin Joly. Working at Lucca, writing about Kubernetes, Talos and the rest of the stack." width="100%">
 </p>
-<h2 align="center">Hello!</h2>
+
 <p align="center">
-  <a href="https://a-cup-of.coffee">Blog</a> •
-  <a href="https://bsky.app/profile/une-tasse-de.cafe">Bluesky</a>
+  <a href="https://a-cup-of.coffee"><code>a-cup-of.coffee</code></a> ·
+  <a href="https://bsky.app/profile/une-tasse-de.cafe"><code>@une-tasse-de.cafe</code></a> ·
+  <a href="https://une-tasse-de-cafe.tngl.io/Orbital/"><code>orbitale</code></a> ·
+  <a href="https://une-tasse-de-cafe.tngl.io/vacua/"><code>vacua</code></a>
 </p>
 
+<img src="assets/01.svg" alt="01 About" width="100%">
 
-- 🔭 I’m currently working at [Lucca](https://www.lucca.fr/).
-- 🌱 I’m currently learning more on [HCI](https://www.hpe.com/emea_europe/en/what-is/hyperconverged-infrastructure.html), Golang, and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
-- 💬 Ask me about **Containers, Kubernetes and Python**
-- 📫 How to reach me: [@une-tasse-de.cafe](https://bsky.app/profile/une-tasse-de.cafe) on BlueSky.
+<table>
+  <tr><td><b>Now</b></td><td>Working at <a href="https://www.lucca.fr/">Lucca</a></td></tr>
+  <tr><td><b>Learning</b></td><td><a href="https://www.hpe.com/emea_europe/en/what-is/hyperconverged-infrastructure.html">HCI</a>, Golang, better <a href="https://quadralogics.com/research/XAsCode.html">X-as-code</a> practices</td></tr>
+  <tr><td><b>Ask me about</b></td><td>Containers, Kubernetes, Python</td></tr>
+  <tr><td><b>Stack</b></td><td><code>Proxmox</code> <code>Kubernetes</code> <code>Talos</code> <code>Terraform</code> <code>Packer</code> <code>Ansible</code> <code>Consul</code> <code>Vault</code> <code>Prometheus</code></td></tr>
+</table>
 
-![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Consul](https://img.shields.io/badge/Consul-DC477D?style=for-the-badge&logo=Consul&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Prometheus](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=Vault&logoColor=white) ![Talos](https://img.shields.io/badge/Talos-9C1B3C?style=for-the-badge&logo=talos&logoColor=white)
-
- -------
-
-<h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/blog-dark.svg">
-  <img alt="" src="assets/blog-light.svg" height="32" align="absmiddle">
-</picture>
-&nbsp;Latest blog posts
-</h3>
+<img src="assets/02.svg" alt="02 Latest posts" width="100%">
 
 <!-- BLOG-POST-LIST:START -->
 - [Under Bluesky&#39;s hood: the ATProto](https://a-cup-of.coffee/blog/atproto-pds/)
@@ -36,17 +28,11 @@
 - [Kairos, the immutable OS for deploying Kubernetes](https://a-cup-of.coffee/blog/kairos/)
 <!-- BLOG-POST-LIST:END -->
 
--------
+<img src="assets/03.svg" alt="03 Metrics" width="100%">
 
-<h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="" src="assets/stats-light.svg" height="32" align="absmiddle">
-</picture>
-&nbsp;Stats
-</h3>
+<p align="center"><img src="github-metrics.svg" alt="GitHub metrics"></p>
 
-![stats](github-metrics.svg)
-![](https://hit.yhype.me/github/profile?user_id=82603435)
-
-<sub>Titles set in <a href="https://une-tasse-de-cafe.tngl.io/Orbital/">Orbitale</a> and <a href="https://une-tasse-de-cafe.tngl.io/vacua/">Vacua</a>, two experimental fonts I made.</sub>
+<p align="center">
+  <sub>Set in <a href="https://une-tasse-de-cafe.tngl.io/Orbital/">Orbitale</a> and <a href="https://une-tasse-de-cafe.tngl.io/vacua/">Vacua</a>, two experimental fonts I made · <code>node assets/build.mjs</code> redraws the artwork</sub>
+  <img src="https://hit.yhype.me/github/profile?user_id=82603435" alt="" width="1" height="1">
+</p>
