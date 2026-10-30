@@ -1,9 +1,10 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
-  <img alt="Hello!" src="assets/hello-light.svg" width="480">
+  <img alt="" src="assets/hello-light.svg" width="480">
 </picture>
 </p>
+<h2 align="center">Hello!</h2>
 <p align="center">
   <a href="https://a-cup-of.coffee">Blog</a> •
   <a href="https://bsky.app/profile/une-tasse-de.cafe">Bluesky</a>
@@ -19,10 +20,13 @@
 
  -------
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/blog-dark.svg">
-  <img alt="Latest blog posts" src="assets/blog-light.svg" height="48">
+  <img alt="" src="assets/blog-light.svg" height="32" align="absmiddle">
 </picture>
+&nbsp;Latest blog posts
+</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Under Bluesky&#39;s hood: the ATProto](https://a-cup-of.coffee/blog/atproto-pds/)
@@ -34,10 +38,13 @@
 
 -------
 
+<h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <img alt="Stats" src="assets/stats-light.svg" height="48">
+  <img alt="" src="assets/stats-light.svg" height="32" align="absmiddle">
 </picture>
+&nbsp;Stats
+</h3>
 
 ![stats](github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=82603435)
