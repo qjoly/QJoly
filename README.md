@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello!</h2>
 <p align="center">
   <a href="https://a-cup-of.coffee">Blog</a> •
-  <a href="https://twitter.com/thebidouilleur">Twitter</a>
+  <a href="https://bsky.app/profile/une-tasse-de.cafe">Bluesky</a>
 </p>
 
 
