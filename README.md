@@ -1,4 +1,9 @@
-<h2 align="center">👋 Hello!</h2>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
+  <img alt="Hello!" src="assets/hello-light.svg" width="480">
+</picture>
+</p>
 <p align="center">
   <a href="https://a-cup-of.coffee">Blog</a> •
   <a href="https://bsky.app/profile/une-tasse-de.cafe">Bluesky</a>
@@ -14,7 +19,10 @@
 
  -------
 
-**📝 Latest Blog Posts**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/blog-dark.svg">
+  <img alt="Latest blog posts" src="assets/blog-light.svg" height="48">
+</picture>
 
 <!-- BLOG-POST-LIST:START -->
 - [Under Bluesky&#39;s hood: the ATProto](https://a-cup-of.coffee/blog/atproto-pds/)
@@ -26,59 +34,12 @@
 
 -------
 
-**❄️ Nix packages I maintain**
-<!-- NIX-PACKAGES:START -->
-- [aiac](https://github.com/gofireflyio/aiac/)
-- [argocd](https://argo-cd.readthedocs.io/en/stable/)
-- [arkade](https://github.com/alexellis/arkade)
-- [avalanchego](https://github.com/ava-labs/avalanchego)
-- [cilium-cli](https://www.cilium.io/)
-- [cloudflared](https://www.cloudflare.com/products/tunnel)
-- [clusterctl](https://cluster-api.sigs.k8s.io/)
-- [driftctl](https://driftctl.com/)
-- [firecracker](http://firecracker-microvm.io)
-- [habitat](https://www.habitat.sh)
-- [helm-dashboard](https://github.com/komodorio/helm-dashboard/)
-- [k0sctl](https://k0sproject.io/)
-- [k3sup](https://github.com/alexellis/k3sup)
-- [k9s](https://github.com/derailed/k9s)
-- [kaniko](https://github.com/chainguard-forks/kaniko)
-- [kubecfg](https://github.com/kubecfg/kubecfg)
-- [kubecm](https://github.com/sunny0826/kubecm/)
-- [kubectl-ktop](https://github.com/vladimirvivien/ktop)
-- [kubefirst](https://github.com/konstructio/kubefirst/)
-- [kubeshark](https://kubeshark.com/)
-- [kubetail](https://github.com/johanhaleby/kubetail)
-- [kubexit](https://github.com/karlkfi/kubexit/)
-- [mdslides](https://github.com/dadoomer/markdown-slides)
-- [nova](https://nova.docs.fairwinds.com/)
-- [packer](https://www.packer.io)
-- [pv-migrate](https://github.com/utkuozdemir/pv-migrate)
-- [subtitlr](https://github.com/yoanbernabeu/Subtitlr/)
-- [teams-for-linux](https://github.com/IsmaelMartinez/teams-for-linux)
-- [terraform](https://www.terraform.io/)
-- [terragrunt](https://terragrunt.gruntwork.io)
-- [tfautomv](https://github.com/busser/tfautomv)
-- [tfupdate](https://github.com/minamijoyo/tfupdate)
-- [vcluster](https://www.vcluster.com/)
-<!-- NIX-PACKAGES:END -->
-
--------
-
-### Stats
-
-<br/>
-<p align="left">
-  <a href="https://une-tasse-de.cafe/">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=qjoly&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=qjoly&theme=dark&background=0D1117&hide_border=true" />
-  </a>
-</p>
-<br>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=qjoly&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img alt="Stats" src="assets/stats-light.svg" height="48">
+</picture>
 
 ![stats](github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=82603435)
+
+<sub>Titles set in <a href="https://une-tasse-de-cafe.tngl.io/Orbital/">Orbitale</a> and <a href="https://une-tasse-de-cafe.tngl.io/vacua/">Vacua</a>, two experimental fonts I made.</sub>
