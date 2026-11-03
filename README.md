@@ -13,7 +13,7 @@
   <tr><td><b>Now</b></td><td>Working at <a href="https://www.lucca.fr/">Lucca</a></td></tr>
   <tr><td><b>Learning</b></td><td><a href="https://www.hpe.com/emea_europe/en/what-is/hyperconverged-infrastructure.html">HCI</a>, Golang, better <a href="https://quadralogics.com/research/XAsCode.html">X-as-code</a> practices</td></tr>
   <tr><td><b>Ask me about</b></td><td>Containers, Kubernetes, Python</td></tr>
-  <tr><td><b>Stack</b></td><td><code>Proxmox</code> <code>Kubernetes</code> <code>Talos</code> <code>Terraform</code> <code>Packer</code> <code>Ansible</code> <code>Consul</code> <code>Vault</code> <code>Prometheus</code></td></tr>
+  <tr><td><b>Stack</b></td><td><code>Proxmox</code> <code>Kubernetes</code> <code>Talos</code> <code>BootC</code></td></tr>
 </table>
 
 <img src="assets/02.svg" alt="02 Latest posts" width="100%">
