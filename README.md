@@ -5,8 +5,6 @@
 <p align="center">
   <a href="https://a-cup-of.coffee"><code>a-cup-of.coffee</code></a> ·
   <a href="https://bsky.app/profile/une-tasse-de.cafe"><code>@une-tasse-de.cafe</code></a> ·
-  <a href="https://une-tasse-de-cafe.tngl.io/Orbital/"><code>orbitale</code></a> ·
-  <a href="https://une-tasse-de-cafe.tngl.io/vacua/"><code>vacua</code></a>
 </p>
 
 <img src="assets/01.svg" alt="01 About" width="100%">
@@ -33,6 +31,5 @@
 <p align="center"><img src="github-metrics.svg" alt="GitHub metrics"></p>
 
 <p align="center">
-  <sub>Set in <a href="https://une-tasse-de-cafe.tngl.io/Orbital/">Orbitale</a> and <a href="https://une-tasse-de-cafe.tngl.io/vacua/">Vacua</a>, two experimental fonts I made · <code>node assets/build.mjs</code> redraws the artwork</sub>
   <img src="https://hit.yhype.me/github/profile?user_id=82603435" alt="" width="1" height="1">
 </p>
